@@ -1,4 +1,3 @@
 # Projeto-Spotfy
-Um clone do Spotfy criado com o framework Bootstrap. Linguagens de estrutura web comuns (HTML e CSS) e o conceito de Mobile-First.
-Foi interessante poder exercitar principalmente a ideia de layout responsivo já presente na arquitetura de se criar um website com a intenção de que este se
-adeque a diversos dispositivos(mobile first). Acredito que todo conhecimento é válido, embora simples.
+A Spotfy clone created with the Bootstrap framework. Common web structure languages (HTML and CSS) and the Mobile-First concept. I exercised the idea of responsive layout already present in Bootstrap 4. The mobile first is the ability to adapt to different devices. And this was my first little project.
+https://lazarok09.github.io/Projeto-Spotfy/
